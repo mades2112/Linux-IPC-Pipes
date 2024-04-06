@@ -83,6 +83,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 ```
 ## OUTPUT
+![os ex3 output](https://github.com/mades2112/Linux-IPC-Pipes/assets/152461996/5d4d393e-c5e0-4ce6-8da5-74cc46a1f107)
+
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
